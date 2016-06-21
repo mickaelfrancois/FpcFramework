@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FpcFramework", "FpcFramework\FpcFramework.csproj", "{AA072D58-A8EC-4BBA-9180-368FF6DCE20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{DEFE09CF-499F-4814-A25A-1D4BA47E9CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA072D58-A8EC-4BBA-9180-368FF6DCE20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA072D58-A8EC-4BBA-9180-368FF6DCE20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA072D58-A8EC-4BBA-9180-368FF6DCE20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA072D58-A8EC-4BBA-9180-368FF6DCE20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFE09CF-499F-4814-A25A-1D4BA47E9CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFE09CF-499F-4814-A25A-1D4BA47E9CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFE09CF-499F-4814-A25A-1D4BA47E9CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFE09CF-499F-4814-A25A-1D4BA47E9CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
